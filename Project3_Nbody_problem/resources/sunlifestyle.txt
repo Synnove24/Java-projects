@@ -1,0 +1,23 @@
+5
+3.50e+11
+ 1.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24    earth.gif
+ 2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23     mars.gif
+ 5.7900e+10  0.0000e+00  0.0000e+00  4.7900e+04  3.3020e+23  mercury.gif
+ 0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  1.9890e+30      sun.gif
+ 1.0820e+11  0.0000e+00  0.0000e+00  3.5000e+04  4.8690e+24    venus.gif
+
+This file contains the sun and the inner 4 planets of our Solar System. 
+This can be used with the sunlifestyle.java file to simulate the future 
+of our solar system. In approximately 5 billion years, our sun will 
+become a red giant and its mass will significantly increase. This directly
+impacts its gravitational force with the planets. Eventually the sun will
+become a super red giant which is even more massive. Then it will become
+a white dwarf star which has much less mass than our current sun. This 
+simulation speeds up this process so that the sun becomes a red giant 
+after a couple seconds.
+
+other necessary images:
+uranus.gif
+redgiant.png
+superredgiant.png
+
